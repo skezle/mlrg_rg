@@ -1,8 +1,14 @@
-# mlrg_rg
+# Bayesian Deep Learning reading group
 
-| Date (11:00)   |      Paper and link      |
-|-----------------|:-------------:|
-| Week 3 August  |  [META-LEARNING PROBABILISTIC INFERENCE FOR PREDICTION](https://arxiv.org/pdf/1805.09921.pdf) |
-| 13 August |  Neurips rebuttals     |
-| 20 August |  |
-| 27 August |  |
+## Potential papers
+
+* ICML Uncertainty and Robustness workshop 2020
+* Neurips Bayesian Deep Learning workshop 2019
+
+## Schedule
+
+| Date (11:00)   |      Paper and link      | Presenter |
+|-----------------|:-------------:|:----------------------------------:
+|     |     |      |
+|     |     |      |
+|     |     |      |
