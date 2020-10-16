@@ -1,5 +1,7 @@
 # Bayesian Deep Learning reading group
 
+Schedule for the BDL reading group. Feel free to pikc one of the cool sshort papers at these recent workshops. Or if you would like to present another paper which interests you and is along the same thread as the workshops below that is also great. Add the yourself and the paper in the table below.
+
 ## Potential papers
 
 * [ICML Uncertainty and Robustness workshop 2020](https://sites.google.com/view/udlworkshop2020/accepted-papers)
