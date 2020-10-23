@@ -11,7 +11,6 @@ Schedule for the BDL reading group. Feel free to pikc one of the cool sshort pap
 
 | Date (11:00)   |      Paper and link      | Presenter |
 |-----------------|:-------------:|:----------------------------------:
-|  Monday 19/10   |     |      |
 |  Monday 26/10   |  "Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks", ICML 2020 [link](https://proceedings.icml.cc/static/paper_files/icml/2020/780-Paper.pdf)   |  BXL reading group*    |
 |  Monday 02/11   |     |      |
 |  Monday 09/11   |     |      |
