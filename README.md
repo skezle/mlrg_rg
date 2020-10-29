@@ -17,4 +17,4 @@ Schedule for the BDL reading group. Feel free to pikc one of the cool sshort pap
 |  Wed 25/11   |     |      |
 |  Wed 02/12   |     |      |
 
-* email Saad who runs the BXL reading group.
+* there might be a cool BDL paper being presented at the BXL rg, I will let you know. Email Saad who runs the BXL reading group to gain access.
