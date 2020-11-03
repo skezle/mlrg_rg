@@ -11,7 +11,7 @@ Schedule for the BDL reading group. Feel free to pikc one of the cool sshort pap
 
 | Date (11:00)   |      Paper and link      | Presenter |
 |-----------------|:-------------:|:----------------------------------:
-|  Wed 04/11   |  "Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels"[link](https://arxiv.org/pdf/1910.05199.pdf)   |   Sam   |
+|  Wed 04/11   |  "Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels" [link](https://arxiv.org/pdf/1910.05199.pdf) / "Deep Mean Functions for Meta-Learning in Gaussian Processes" [link](http://bayesiandeeplearning.org/2019/papers/27.pdf)   |   Sam   |
 |  Wed 11/11   |     |      |
 |  Wed 18/11   |     |      |
 |  Wed 25/11   |     |      |
