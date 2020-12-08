@@ -14,7 +14,7 @@ Schedule for the BDL reading group. Feel free to pick one of the cool short pape
 |  Wed 04/11   |  "Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels" [link](https://arxiv.org/pdf/1910.05199.pdf) / "Deep Mean Functions for Meta-Learning in Gaussian Processes" [link](http://bayesiandeeplearning.org/2019/papers/27.pdf)   |   Sam   |
 |  Wed 11/11   | "Continual Unsupervised Representation Learning" [link](https://arxiv.org/pdf/1910.14481.pdf)   |   Kieran   |
 |  Wed 25/11   | "Uncertainty Autoencoders" [link](https://arxiv.org/pdf/1812.10539.pdf) | Lawrence |
-|  Wed 09/12   |     |      |
+|  Wed 09/12   | "Bayesian Attention Modules" [link](https://arxiv.org/pdf/2010.10604.pdf) | Trent |
 |  Wed 23/12   |     |      |
 
 * there might be a cool BDL paper being presented at the BXL rg, I will let you know. Email Saad who runs the BXL reading group to gain access.
