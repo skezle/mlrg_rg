@@ -27,6 +27,6 @@ There might be a cool BDL paper being presented at the BXL rg, I will let you kn
 |-----------------|:-------------:|:----------------------------------:
 |  Wed 13/01   |     |      |
 |  Wed 27/01   |   |      |
-|  Wed 10/02   |  |  |
+|  Wed 10/02   | TBD | Kieran |
 |  Wed 24/02   | TBD | Sam  |
 |  Wed 03/03  |     |      |
