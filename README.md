@@ -19,7 +19,7 @@ There might be a cool BDL paper being presented at the BXL rg, I will let you kn
 |  Wed 11/11   | "Continual Unsupervised Representation Learning" [link](https://arxiv.org/pdf/1910.14481.pdf)   |   Kieran   |
 |  Wed 25/11   | "Uncertainty Autoencoders" [link](https://arxiv.org/pdf/1812.10539.pdf) | Lawrence |
 |  Wed 09/12   | "Bayesian Attention Modules" [link](https://arxiv.org/pdf/2010.10604.pdf) | Trent |
-|  Wed 23/12   |     |      |
+|  Wed 23/12   | "ELBO surgery: yet another way to carve up the variational evidence lower bound" [link](http://approximateinference.org/accepted/HoffmanJohnson2016.pdf) | Trent |
 
 ### Hillary Term 2021
 
@@ -29,4 +29,4 @@ There might be a cool BDL paper being presented at the BXL rg, I will let you kn
 |  Wed 27/01   |   |      |
 |  Wed 10/02   | TBD | Kieran |
 |  Wed 24/02   | TBD | Sam  |
-|  Wed 03/03  |     |      |
+|  Wed 03/03  | "Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift" [link](https://arxiv.org/pdf/1906.02530.pdf) | Trent |
