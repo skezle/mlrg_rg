@@ -29,4 +29,4 @@ There might be a cool BDL paper being presented at the BXL rg, I will let you kn
 |  Wed 27/01   |   |      |
 |  Wed 17/02   | "Bayesian Neural Network Priors Revisited" [link](https://openreview.net/pdf?id=KWF4Slxui0s) | Kieran |
 |  Wed 24/02   | "GENERALIZED VARIATIONAL CONTINUAL LEARNING" [link](https://openreview.net/pdf?id=_IM-AfFhna9) | Sam  |
-|  Wed 03/03  | "Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift" [link](https://arxiv.org/pdf/1906.02530.pdf) | Trent |
+|  Wed 10/03  | "Improving Variational Inference with Inverse Autoregressive Flow" [link](https://arxiv.org/abs/1606.04934) | Trent |
