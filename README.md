@@ -30,3 +30,4 @@ There might be a cool BDL paper being presented at the BXL rg, I will let you kn
 |  Wed 17/02   | "Bayesian Neural Network Priors Revisited" [link](https://openreview.net/pdf?id=KWF4Slxui0s) | Kieran |
 |  Wed 24/02   | "GENERALIZED VARIATIONAL CONTINUAL LEARNING" [link](https://openreview.net/pdf?id=_IM-AfFhna9) | Sam  |
 |  Wed 10/03  | "Improving Variational Inference with Inverse Autoregressive Flow" [link](https://arxiv.org/abs/1606.04934) | Trent |
+|  Wed 28/03  | "Sequential Changepoint Detection in Neural Networks with Checkpoints" [link](https://arxiv.org/pdf/2010.03053.pdf) | Kieran |
