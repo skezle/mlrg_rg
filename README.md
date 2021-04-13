@@ -31,4 +31,4 @@ There might be a cool BDL paper being presented at the BXL rg, I will let you kn
 |  Wed 24/02   | "GENERALIZED VARIATIONAL CONTINUAL LEARNING" [link](https://openreview.net/pdf?id=_IM-AfFhna9) | Sam  |
 |  Wed 10/03  | "Improving Variational Inference with Inverse Autoregressive Flow" [link](https://arxiv.org/abs/1606.04934) | 
 |  Wed 31/03  | "Sequential Changepoint Detection in Neural Networks with Checkpoints" | Kieran |
-|  Wed 14/04  | "Variational Laplace for Bayesian neural networks" [link](https://arxiv.org/pdf/2103.00222.pdf) | Sam |
+|  Wed 20/04  | "Variational Laplace for Bayesian neural networks" [link](https://arxiv.org/pdf/2103.00222.pdf) | Sam |
